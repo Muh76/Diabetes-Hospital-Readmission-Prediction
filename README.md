@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="diabetes-mlops.svg">
+  <source media="(prefers-color-scheme: light)" srcset="diabetes-mlops-light.svg">
+  <img alt="Diabetes Readmission" src="diabetes-mlops.svg" width="100%">
+</picture>
+
 # 🏥 **Diabetes Readmission Prediction - MLOps Production System**
 
 > **Predicting 30-day hospital readmissions at discharge with advanced ML models and comprehensive healthcare analytics**
